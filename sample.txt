@@ -1,1 +1,2 @@
-sample file on develop
+sample file on develop, to create conflicts
+sample file on feature
